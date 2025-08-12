@@ -672,9 +672,9 @@ export default function HomePage() {
                   <button className="flex-1 bg-purple-500 hover:bg-purple-600 text-white py-2 px-3 rounded-full text-sm font-medium transition-colors">
                     YouTube
                   </button>
-                  <button className="flex-1 bg-blue-500 hover:bg-blue-600 text-white py-2 px-3 rounded-full text-sm font-medium transition-colors">
+                  {/* <button className="flex-1 bg-blue-500 hover:bg-blue-600 text-white py-2 px-3 rounded-full text-sm font-medium transition-colors">
                     Letterboxd
-                  </button>
+                  </button> */}
                 </div>
               </div>
             </div>
