@@ -69,7 +69,7 @@ export default function Header({
             >
               Home
             </Link>
-            <Link 
+            {/* <Link 
               to="/about" 
               className={`font-medium transition-colors ${
                 location.pathname === '/about'
@@ -78,7 +78,7 @@ export default function Header({
               }`}
             >
               About Ronel
-            </Link>
+            </Link> */}
           </nav>
 
           {/* Auth & Mobile Menu */}
