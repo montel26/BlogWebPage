@@ -624,7 +624,7 @@ export default function HomePage() {
               </div>
 
               {/* Popular Reviews */}
-              <div className="bg-white rounded-2xl p-6 shadow-lg border border-pink-200">
+              {/* <div className="bg-white rounded-2xl p-6 shadow-lg border border-pink-200">
                 <h3 className="text-xl font-bold text-pink-800 mb-4 flex items-center gap-2">
                   <Heart className="w-5 h-5 text-pink-500" />
                   Popular Reviews
@@ -658,7 +658,7 @@ export default function HomePage() {
                     </div>
                   ))}
                 </div>
-              </div>
+              </div> */}
 
 
 
