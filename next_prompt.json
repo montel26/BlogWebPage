@@ -1,8 +1,0 @@
-{
-    "summary": "Update the existing blog homepage to focus on anime, movie, and book reviews with Ronel as the site owner, including authentication functionality and image upload capabilities for review content",
-    "page": {
-        "name": "HomePage",
-        "routes": ["/", "/home"],
-        "description": "The main landing page that showcases Ronel's review blog focused on anime, movies, and books. Features a personalized header with Ronel's branding, a grid of recent reviews with cover images, filtering options by content type (anime/movies/books), and authentication functionality allowing Ronel to sign in with a password to manage and add new review posts with images. The page maintains the feminine aesthetic while adapting the content to focus specifically on entertainment media reviews."
-    }
-}
